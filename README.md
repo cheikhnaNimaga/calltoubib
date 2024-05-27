@@ -10,7 +10,7 @@ Calltoubib, une plateforme de prise de rdv médical qui vous facilite vos intera
 - HTML
 - CSS
 - Bootstrap
-- 
+- JavaScript
 
 ## Equipe
 
